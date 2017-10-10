@@ -1,18 +1,28 @@
 [
   {
-    "name": "Public Domain Chronicle",
-    "provider": "The BioBricks Foundation",
-    "website": "https://publicdomainchronicle.org",
-    "publish": "https://publicdomainchronicle.org/server/publish",
-    "general": true
+    "server": {
+      "name": "Public Domain Chronicle",
+      "website": "https://publicdomainchronicle.org",
+      "publish": "https://publicdomainchronicle.org/server/publish",
+      "general": true
+    },
+    "host": {
+      "name": "The BioBricks Foundation",
+      "website": "https://biobricks.org"
+    }
   },
   {
-    "name": "The BioBricks Foundation",
-    "provider": "The BioBricks Foundation",
-    "website": "https://pdc.biobricks.org",
-    "publish": "https://pdc.biobricks.org/publish",
-    "fields": [
-      "synthetic biology"
-    ]
+    "server": {
+      "name": "The BioBricks Foundation PDC",
+      "website": "https://pdc.biobricks.org",
+      "publish": "https://pdc.biobricks.org/publish",
+      "fields": [
+        "synthetic biology"
+      ]
+    },
+    "host": {
+      "name": "The BioBricks Foundation",
+      "website": "https://biobricks.org"
+    }
   }
 ]

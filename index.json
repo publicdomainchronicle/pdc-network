@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Public Domain Chronicle",
+    "provider": "The BioBricks Foundation",
+    "website": "https://publicdomainchronicle.org",
+    "publish": "https://publicdomainchronicle.org/server/publish",
+    "general": true
+  },
+  {
+    "name": "The BioBricks Foundation",
+    "provider": "The BioBricks Foundation",
+    "website": "https://pdc.biobricks.org",
+    "publish": "https://pdc.biobricks.org/publish",
+    "fields": [
+      "synthetic biology"
+    ]
+  }
+]

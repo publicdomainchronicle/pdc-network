@@ -3,8 +3,7 @@
     "server": {
       "name": "Public Domain Chronicle",
       "website": "https://publicdomainchronicle.org",
-      "publish": "https://publicdomainchronicle.org/server/publish",
-      "general": true
+      "publish": "https://publicdomainchronicle.org/server/publish"
     },
     "host": {
       "name": "The BioBricks Foundation",
@@ -13,7 +12,7 @@
   },
   {
     "server": {
-      "name": "The BioBricks Foundation PDC",
+      "name": "pdc.biobricks.org",
       "website": "https://pdc.biobricks.org",
       "publish": "https://pdc.biobricks.org/publish",
       "fields": [
